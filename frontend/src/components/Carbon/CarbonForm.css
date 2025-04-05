@@ -1,0 +1,7 @@
+.carbon-form-container {
+    background: var(--surface);
+    background-image: var(--metallic-gradient);
+    border: var(--metallic-border);
+    box-shadow: var(--metallic-shadow);
+    /* Add other styles matching AuthPage */
+  }
